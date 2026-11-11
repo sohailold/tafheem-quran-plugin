@@ -1,0 +1,26 @@
+{
+  "name": "tafheem-quran",
+  "displayName": "Tafheem-ul-Quran",
+  "version": "1.0.0",
+  "description": "Search and quote Tafheem-ul-Quran (Maududi), the six major hadith collections, Islamic books and history from tafheemulquran.net, with a link to every source. Read-only, no key.",
+  "author": {
+    "name": "Tafheem Research Lab",
+    "email": "tafheem2026@gmail.com",
+    "url": "https://tafheemulquran.net"
+  },
+  "homepage": "https://tafheemulquran.net/mcp-guide",
+  "repository": "https://github.com/sohailold/tafheem-quran-plugin",
+  "license": "MIT",
+  "keywords": [
+    "quran",
+    "tafheem",
+    "tafsir",
+    "hadith",
+    "islam",
+    "urdu",
+    "maududi",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://tafheemulquran.net/privacy"
+}

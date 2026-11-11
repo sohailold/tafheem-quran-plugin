@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tafheem": {
+      "type": "http",
+      "url": "https://tafheemulquran.net/mcp"
+    }
+  }
+}

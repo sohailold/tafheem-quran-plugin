@@ -1,0 +1,17 @@
+{
+  "name": "tafheem",
+  "description": "Tafheem-ul-Quran, hadith and Islamic books for Claude, from tafheemulquran.net",
+  "owner": {
+    "name": "Tafheem Research Lab",
+    "email": "tafheem2026@gmail.com",
+    "url": "https://tafheemulquran.net"
+  },
+  "plugins": [
+    {
+      "name": "tafheem-quran",
+      "source": "./plugins/tafheem-quran",
+      "description": "Search and quote Tafheem-ul-Quran (Maududi), hadith, Islamic books and history, with a link to every source.",
+      "category": "education"
+    }
+  ]
+}
